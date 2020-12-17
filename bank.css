@@ -1,0 +1,48 @@
+﻿body{
+	padding:2em;
+	margin:2em;
+	background-image:url('images/lucas-favre-MNXaW_ABlZY-unsplash.jpg');
+	background-size:100% 100%;
+}
+h1{
+	color:#FFFFFF;
+	font-size:5em;
+}
+h3{
+	color:#FF9933;
+	font-size:2em;
+}
+h2{
+	color:#FF9933;
+}
+a{
+	color:#FF6600;
+	margin-left:1%;
+}
+table{
+width:50%;
+	background-color:#FFFFFF;
+	margin:2%;
+	border:0.3em #FF9900 solid;
+}
+p{
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.5em;
+	margin-left:2%;
+}
+td{
+	padding:1%;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1em;
+	margin:1%;
+}
+th{
+	padding:1%;
+	font-size:1em;
+}
+input{
+	margin-left:2%;
+	color:#000000;
+	font-size:1.2em;
+}
